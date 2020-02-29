@@ -2,7 +2,7 @@ Novel Coronavirus (n-COVID-19) Dataset, extracted from the Johns Hopkins Univers
 
 # See:
 
-[GitHub](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
+[Coronavirus COVID-19 Global cases by Johns Hopkins CSSE](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
 
 
 # Description
