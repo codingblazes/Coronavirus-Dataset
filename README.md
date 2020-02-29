@@ -1,5 +1,7 @@
 Novel Coronavirus (n-COVID-19) Dataset, extracted from the Johns Hopkins University website.
 
+![JHU CSSE Tracker Dashboard View](https://github.com/ashwinpn/Coronavirus-Dataset/blob/master/Images/JHU%202-29-20.JPG)
+
 # Latest Version
 
 7:00 AM Saturday, Eastern Time (ET), 29 February 2020. 
