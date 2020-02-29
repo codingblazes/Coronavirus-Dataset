@@ -1,5 +1,9 @@
 Novel Coronavirus (n-COVID-19) Dataset, extracted from the Johns Hopkins University website.
 
+# Latest Version
+
+7:00 AM Saturday, Eastern Time (ET), 29 February 2019. 
+
 # See:
 
 [Coronavirus COVID-19 Global cases by Johns Hopkins CSSE](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
@@ -7,7 +11,7 @@ Novel Coronavirus (n-COVID-19) Dataset, extracted from the Johns Hopkins Univers
 
 # Description
 
-covid19data.csv
+**covid19data.csv**
 
 - Sno - Serial number
 - ObservationDate - Date of the observation in MM/DD/YYYY
