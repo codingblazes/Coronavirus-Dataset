@@ -24,7 +24,7 @@ Novel Coronavirus (n-COVID-19) Dataset, extracted from the Johns Hopkins Univers
 - Deaths - Cumulative number of of deaths till that date
 - Recovered - Cumulative number of recovered cases till that date
 
-(Ref. Kaggle format)
+(Ref. Kaggle format, Kaggle Datasets)
 
 [![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
