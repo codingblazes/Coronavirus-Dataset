@@ -2,7 +2,7 @@ Novel Coronavirus (n-COVID-19) Dataset, extracted from the Johns Hopkins Univers
 
 # Latest Version
 
-7:00 AM Saturday, Eastern Time (ET), 29 February 2019. 
+7:00 AM Saturday, Eastern Time (ET), 29 February 2020. 
 
 # See:
 
